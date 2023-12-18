@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../practice-activity"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "guess_the_word_game"
+	}
+}
